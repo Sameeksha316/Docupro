@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "next": "^15.3.3",
+    "npm-git-install": "^0.3.0",
+    "postgres": "^3.4.7",
+    "puppeteer": "^24.10.0",
+    "puppeteer-core": "^24.10.0"
+  }
+}
